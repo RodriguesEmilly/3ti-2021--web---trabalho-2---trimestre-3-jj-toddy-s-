@@ -1,0 +1,32 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url("https://w.wallhaven.cc/full/3k/wallhaven-3k3kyy.jpg");
+    background-color: #cccccc;
+}
+
+section {
+    margin: 0px auto;
+}
+
+.card-width {
+    border: none;
+    margin: 5vh 5vw;
+    width: 50vw;
+    height: 10vw;
+}
+
+.card:hover {
+    border: solid 3px white;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.cardlist-container {
+    margin-top: 5vh;
+}
